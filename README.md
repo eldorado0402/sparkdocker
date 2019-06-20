@@ -10,3 +10,7 @@ docker-compose --compatibility up
 spark-master : localhost:8080
 spark-worker : localhost:8081
 spring-boot : localhost:3000
+
+#app
+spark word count jar 파일은 따로 다운로드 해야함.
+용량 문제로 git에 커밋 되지 않음
